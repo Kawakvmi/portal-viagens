@@ -1,0 +1,5 @@
+﻿.card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:14px;overflow:hidden}
+.thumb{position:relative;aspect-ratio:16/11;background:#0a0d24}
+.content{padding:12px 14px}
+.title{margin:0 0 8px;font-weight:700}
+.cta{display:inline-block;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);padding:8px 10px;border-radius:10px;text-decoration:none;color:#fff}
