@@ -1,0 +1,8 @@
+﻿:root{--bg:#0f1226;--text:#e9ecff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:ui-sans-serif,system-ui}
+a{color:inherit}
+.card{box-shadow:0 8px 30px rgba(0,0,0,.25);border-radius:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:20px}
+.muted{color:#a6b0ff}
+.btn{display:inline-block;background:#7b7bff;padding:10px 14px;border-radius:12px;color:#fff;text-decoration:none}
